@@ -1,0 +1,1 @@
+<view><yn-gallery vue-id="1" galleryheight="{{165}}" bkstart="#FFFFFF" bkend="#FFFFFF" imgviewwidth="{{85}}" imgviewheight="{{105}}" showbadge="{{true}}" badegtype="trian" badegwidth="25" badegheight="25" showdec="{{true}}" images="{{previewList}}" bind:__l="__l"></yn-gallery></view>

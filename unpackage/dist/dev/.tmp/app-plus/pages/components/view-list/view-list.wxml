@@ -1,0 +1,1 @@
+<view><block wx:for="{{imgList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="img-item"><view data-event-opts="{{[['tap',[['handleRoute',['$0'],[[['imgList','',index,'_id']]]]]]]}}" class="img-content" bindtap="__e"><image src="{{item.breviary}}" mode="aspectFit"></image></view></view></block></view>

@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"menu-nav { overflow: auto hidden; width: 100%; height: ",[0,80],"; white-space: nowrap; background: #FF73A2; color: #FFFFFF; }\n.",[1],"menu-nav .",[1],"menu-item { display: inline-block; width: ",[0,100],"; height: ",[0,80],"; line-height: ",[0,80],"; text-align: center; }\n",],undefined,{path:"./pages/home/home.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/home.wxml') } }));

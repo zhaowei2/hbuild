@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/preview/preview"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "美之图",
+    "navigationBarBackgroundColor": "#FF73A2",
+    "backgroundColor": "#FF73A2"
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "hello",
+  "compilerVersion": "2.3.3",
+  "usingComponents": {}
+}
